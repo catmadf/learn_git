@@ -34,6 +34,7 @@ mkdir_recursively : 用于递归创建文件夹
 flatten : 将不规则的list展开成一维list
 generate_ellipse : 生成用于绘制椭圆曲线的序列x, y
 """
+doc = "用于git测试"
 import re
 import os
 import struct
